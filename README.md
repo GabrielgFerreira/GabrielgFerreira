@@ -16,7 +16,7 @@
   <li> <em> Sou um arquiteto de interfaces web que transforma linhas de código em experiências incríveis!</em></li>
   <li> <em> Minha <strong>paixão</strong> é criar sites e aplicativos responsivos e elegantes que encantam e levam a experiência do usuário ao próximo nível.</em></li>
   <li> <em> O aprendizado contínuo é minha motivação diária, sempre buscando aprender mais e compartilhar conhecimento com a comunidade de desenvolvedores.</em></li>
-  <li> <em> Atualmente, estou mergulhando no universo do  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  explorando as infinitas possibilidades dessa biblioteca incrível e me dedicando ao aprendizado contínuo dela </em> </li>
+
 </ul>
 
 <br><br>
